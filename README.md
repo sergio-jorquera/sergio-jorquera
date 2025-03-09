@@ -6,7 +6,7 @@
 Comienzo este camino con mucha ilusión y ganas de aprender. Cada día descubro nuevas tecnologías que me permiten mejorar mis habilidades, enfrentar nuevos retos y a desarrollar soluciones más eficientes y creativas para futuros proyectos"&lt;/p&gt;
 <br>
 
-&lt;h1&gt;**Algunas de las **TECNOLOGÍAS** que uso hasta ahora:&lt;/h1&gt;
+&lt;h1&gt;Algunas de las **TECNOLOGÍAS** que uso hasta ahora:&lt;/h1&gt;
 <br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
