@@ -38,11 +38,4 @@ LinkedIn<br>
 
 
 
-javascriptCopyconst developer = {
-  name: '[Tu nombre]',
-  role: 'Full Stack Developer en formación',
-  skills: ['HTML', 'CSS', 'JavaScript', 'React'],
-  learning: ['Node.js', 'MongoDB', 'Express'],
-  passion: 'Crear soluciones web intuitivas y funcionales'
-};Version 1 of 2
 
