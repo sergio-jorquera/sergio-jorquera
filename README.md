@@ -1,6 +1,6 @@
 ¡Hola! Mi nombre es Sergio!!! 👋
 
-Sobre mí
+Sobre mí <br>
 Soy un estudiante, desarrollador full stack en proceso. Actualmente formándome en Factoria F5, donde estoy adquiriendo conocimientos prácticos en desarrollo web y metodologías ágiles.
 Comienzo este camino con mucha ilusión y ganas de aprender. Cada día descubro nuevas tecnologías que me permiten mejorar mis habilidades, enfrentar nuevos retos y a desarrollar soluciones más eficientes y creativas para futuros proyectos"
 
