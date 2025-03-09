@@ -1,11 +1,13 @@
 ¡Hola! Mi nombre es Sergio!!! 👋
 
-Sobre mí <br>
+**SOBRE MI** <br>
+
 Soy un estudiante, desarrollador full stack en proceso. Actualmente formándome en Factoria F5, donde estoy adquiriendo conocimientos prácticos en desarrollo web y metodologías ágiles.
 Comienzo este camino con mucha ilusión y ganas de aprender. Cada día descubro nuevas tecnologías que me permiten mejorar mis habilidades, enfrentar nuevos retos y a desarrollar soluciones más eficientes y creativas para futuros proyectos"
+<br>
 
-
-Algunas de las tecnologías que uso hasta ahora:
+Algunas de las **TECNOLOGÍAS** que uso hasta ahora:
+<br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -23,13 +25,13 @@ Algunas de las tecnologías que uso hasta ahora:
 
 
 
-
+<br>
  
-Mis proyectos
+**MIS PROYECTOS**<br>
 Aquí podrás encontrar una muestra de los proyectos en los que he trabajado durante mi formación. Cada proyecto representa un paso en mi evolución como desarrollador y refleja mi compromiso con el aprendizaje continuo.
 
 
-Contacto:
+**Contacto:**
 
 LinkedIn<br>
 [https://www.linkedin.com/in/sergio-jorquera-gimeno-48472934a/ ](https://www.linkedin.com/in/sergio-jorquera-gimeno-48472934a/)
